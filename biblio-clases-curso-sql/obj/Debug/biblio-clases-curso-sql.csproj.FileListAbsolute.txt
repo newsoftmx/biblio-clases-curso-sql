@@ -1,0 +1,6 @@
+C:\cursos2\c#\biblio-clases-curso-sql\biblio-clases-curso-sql\bin\Debug\biblio-clases-curso-sql.dll
+C:\cursos2\c#\biblio-clases-curso-sql\biblio-clases-curso-sql\bin\Debug\biblio-clases-curso-sql.pdb
+C:\cursos2\c#\biblio-clases-curso-sql\biblio-clases-curso-sql\obj\Debug\biblio-clases-curso-sql.csprojAssemblyReference.cache
+C:\cursos2\c#\biblio-clases-curso-sql\biblio-clases-curso-sql\obj\Debug\biblio-clases-curso-sql.csproj.CoreCompileInputs.cache
+C:\cursos2\c#\biblio-clases-curso-sql\biblio-clases-curso-sql\obj\Debug\biblio-clases-curso-sql.dll
+C:\cursos2\c#\biblio-clases-curso-sql\biblio-clases-curso-sql\obj\Debug\biblio-clases-curso-sql.pdb
